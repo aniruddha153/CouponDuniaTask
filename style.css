@@ -21,7 +21,7 @@ ul.tabs li { display: inline-block; padding: 10px 20px; background: #06A2CB; col
 ul.tabs li.active { background: #E0E0E0; color: #222; }
 ul.tabs li:not(.active):hover { background: rgba(6, 162, 203, 0.7); }
 
-.tab-content { display: none; background: #E0E0E0; padding: 20px; height: 150px; }
+.tab-content { display: none; background: #E0E0E0; padding: 20px; height: 200px; }
 .tab-content.active { display: block; }
 
 @media (min-width: 768px) { 
