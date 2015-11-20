@@ -1,5 +1,5 @@
 html{ font-family: 'Trebuchet MS', Sans-Serif; }
-body { margin-top: 20px; }
+body { margin-top: 20px; margin-bottom: 20px; }
 
 .container{ width: 800px; margin: 20px auto 0px auto; }
 
@@ -7,11 +7,11 @@ body { margin-top: 20px; }
 /*.tab-dropdown:after{ position: absolute; right: 0.5em; top: 0; content: "\2261"; font-size: 1.8em; color: #FFF; }*/
 .tab-dropdown select { background: transparent; width: 100%; height: 35px; padding: 5px; font-size: 1em; line-height: 1; -webkit-appearance: none; outline: none; }
 
-.container.mobileView{ width: 300px; }
+.container.mobileView{ width: 330px; }
 .container.mobileView ul.tabs { display: none; }
 .container.mobileView .tab-dropdown { display: block; width: 100%; }
 .container.mobileView .tab-dropdown select { display: block; width: 100%; }
-.container.mobileView .tab-content { height: 350px; }
+.container.mobileView .tab-content { height: 400px; }
 
 .button-wrapper{ background: #333; padding: 20px; text-align: center; }
 .primary-btn{ padding: 10px; }
