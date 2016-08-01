@@ -1,2 +1,1 @@
-# CouponDuniaTask
-Repo for Coupon Dunia Task
+# Responsive Tabs
